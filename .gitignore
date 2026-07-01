@@ -1,0 +1,26 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model and training outputs
+saves/
+outputs/
+checkpoints/
+wandb/
+runs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+
+# Large local data drops
+local_data/
+*.parquet
+*.arrow
