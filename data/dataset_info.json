@@ -1,0 +1,10 @@
+{
+  "music_theory_sft_sample": {
+    "file_name": "music_theory_sft_sample.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
