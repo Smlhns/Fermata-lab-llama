@@ -1,0 +1,2 @@
+# Installs the current upstream LLaMA-Factory package and CLI.
+llamafactory @ git+https://github.com/hiyouga/LLaMA-Factory.git
