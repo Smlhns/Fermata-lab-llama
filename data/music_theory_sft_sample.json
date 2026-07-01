@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Identify the cadence in the progression.",
+    "input": "Key: C major. Progression: Dm7 - G7 - Cmaj7.",
+    "output": "The progression ends with G7 resolving to Cmaj7, so it is an authentic cadence. Because the dominant seventh resolves to the tonic, it has a strong sense of closure."
+  },
+  {
+    "instruction": "Explain the Roman numerals for this chord progression.",
+    "input": "Key: A minor. Progression: Am - F - G - Em.",
+    "output": "In A minor, Am is i, F is VI, G is VII, and Em is v. The full Roman numeral analysis is i - VI - VII - v."
+  },
+  {
+    "instruction": "Describe what this ABC notation represents.",
+    "input": "X:1\nT:Simple Phrase\nM:4/4\nK:C\nC D E F | G A B c |",
+    "output": "This ABC snippet is a simple ascending phrase in C major. It uses common time and moves stepwise from middle C through the next C over two measures."
+  },
+  {
+    "instruction": "Suggest a continuation that preserves the style.",
+    "input": "ABC notation: M:4/4\nK:G\nG A B d | c B A G |",
+    "output": "A stylistically consistent continuation could answer the descending motion and return to the tonic: B A G E | D2 G2 |. In ABC context: G A B d | c B A G | B A G E | D2 G2 |."
+  },
+  {
+    "instruction": "Name the interval and explain it briefly.",
+    "input": "From F to C above it.",
+    "output": "F up to C is a perfect fifth. It spans five letter names: F, G, A, B, C, and in the diatonic collection it has the stable perfect-fifth quality."
+  }
+]
